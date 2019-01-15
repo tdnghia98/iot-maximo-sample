@@ -4,11 +4,11 @@
 	"iotf-service-name": "iotf-maximo",
 	
 	"maximo-options": {
-		"protocol": "",
-		"hostname": "",
-		"port": "",
-		"user": "",
-		"password": "",
+		"protocol": "http",
+		"hostname": "caplonsgprd-2.securegateway.appdomain.cloud",
+		"port": "15589",
+		"user": "wilson",
+		"password": "wilson",
 		"auth_scheme": "",
 		"authtype": "",
 		"islean": 1
